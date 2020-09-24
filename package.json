@@ -1,6 +1,6 @@
 {
   "name": "frade-utils",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Lib of utils functions",
   "main": "index.js",
   "scripts": {},
